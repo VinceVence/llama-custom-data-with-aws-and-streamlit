@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+nltk==3.9b1
+openai
+llama-index
+llama-index-llms-openai
+pypdf
+pydantic-settings

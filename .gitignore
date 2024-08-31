@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+build/
+dist/
+node_modules/
